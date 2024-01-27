@@ -1,2 +1,5 @@
 # Ignore os arquivos de sistema
 .ini
+
+# Ignore arquivos relacionados às chaves de API
+.env
